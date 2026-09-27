@@ -1,0 +1,1300 @@
+{
+  "id": "114-elementary-civics-english",
+  "year": 114,
+  "exam": "114年公務人員初等考試",
+  "level": "初等考試",
+  "category": "各類科",
+  "subject": "公民與英文",
+  "subjectCode": "2501",
+  "durationMinutes": 60,
+  "questionCount": 50,
+  "pointsEach": 2,
+  "sourceFile": "114_公民與英文_試題.pdf",
+  "answerSourceFile": "114_公民與英文_更正答案.pdf",
+  "groups": [
+    {
+      "id": "41-45",
+      "from": 41,
+      "to": 45,
+      "kind": "cloze",
+      "instruction": "請依下文回答第41 題至第45 題",
+      "passage": "A meetup is a gathering or event where people with similar interests come together to socialize, network, or participate in activities. It’s like a planned get-together （41） one can meet new people and connect with others who share their hobbies, passions, or goals. Meetups can take many （42）, from casual coffee meetups to organized group outings. For example, a book club meetup might bring together book lovers to discuss their （43） reads, share recommendations, and enjoy lively conversations. Similarly, a hiking meetup could （44） a group of outdoor enthusiasts coming together to explore nature trails, enjoy scenic views, and bond over their love for hiking. Meetups provide opportunities for people to make new friends, learn from one another, and build supportive communities based on shared interests and experiences. Whether it’s cooking, photography or fitness, there is a meetup for （45） every interest imaginable, making it easy for people to connect with like-minded peers and enrich their lives through meaningful interactions."
+    },
+    {
+      "id": "46-50",
+      "from": 46,
+      "to": 50,
+      "kind": "reading",
+      "instruction": "請依下文回答第46 題至第50 題",
+      "passage": "Board games are fun games that you play on a flat board with pieces and rules. They come in different types, each offering its own unique experience and challenges. One popular type is strategy games, such as Chess or Risk, where players use their wits and planning skills to outsmart their opponents and achieve victory. Another type of board games is word games, like Scrabble or Bananagrams. These games test players’vocabulary and spelling skills as they try to create words from the letters available to them. Some board games focus on teamwork, such as Pandemic or Forbidden Island, where players must work together to achieve a common goal, whether it’s curing diseases or escaping from a sinking island. There are also board games based on luck and chance, such as Monopoly or Sorry. In these games, players rely on dice rolls or card draws to determine their actions and outcomes. These games are exciting, offering players the thrill of anticipation as they wait to see what fate has in store for them. People enjoy playing board games for different reasons. For one, board games bring friends and family members together to spend time for fun. Board games also help you learn new things. Some games teach you strategies to solve problems or improve your memory and math skills. Board games are entertaining too, making you happy even if you don’t win. Besides, board games are a way for people to relax and take a break from phones or computers. In short, board games are popular because they are social, educational, and enjoyable. No matter what type of board games people prefer, there’s something for everyone to enjoy."
+    }
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "目前各國衡量一國的經濟成長常會使用國民所得的數據來顯示，但國民所得的數據只是整體與平均經濟狀況表象，下列何種曲線可以呈現國民所得分配不均程度？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "恩格爾曲線"
+        },
+        {
+          "id": "B",
+          "text": "菲利浦曲線"
+        },
+        {
+          "id": "C",
+          "text": "勞倫斯曲線"
+        },
+        {
+          "id": "D",
+          "text": "生產可能曲線"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "某國生產兩種產品（X 與Y，分別表示為水平軸與垂直軸），其凹向原點的生產可能曲線上，由左上往右下依序為A、B、C 三個點，下列敘述何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "就生產效率的大小而言，A＞B＞C"
+        },
+        {
+          "id": "B",
+          "text": "多生產一單位X 的機會成本為A＞B＞C"
+        },
+        {
+          "id": "C",
+          "text": "就生產效率的大小而言，A＝B＝C"
+        },
+        {
+          "id": "D",
+          "text": "多生產一單位Y 的機會成本為A＝B＝C"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "跨太平洋夥伴全面進步協定（CPTPP）旨在促進泛太平洋國家間的貿易自由化。依其宗旨判斷，參與此種經濟合作組織的國家，會產生下列何種現象？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "勞動要素可自由流動"
+        },
+        {
+          "id": "B",
+          "text": "各國間實施關稅保護"
+        },
+        {
+          "id": "C",
+          "text": "共同發行統一的貨幣"
+        },
+        {
+          "id": "D",
+          "text": "市場上商品種類增加"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "對社會而言，下列那一種財貨或服務的機會成本最低？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "政府提供的免費服務"
+        },
+        {
+          "id": "B",
+          "text": "不具相對稀少性的物品"
+        },
+        {
+          "id": "C",
+          "text": "準備拿來當作肥料的雞糞"
+        },
+        {
+          "id": "D",
+          "text": "無法提升消費者效用的物品"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "市場上的生產者與消費者會隨著產品價格的上漲或下跌，不斷地調整其生產或消費行為，最後會達到市場均衡。下列針對此市場均衡的相關敘述，何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "無謂損失等於零"
+        },
+        {
+          "id": "B",
+          "text": "生產者剩餘達到最小值"
+        },
+        {
+          "id": "C",
+          "text": "社會總剩餘等於消費者剩餘"
+        },
+        {
+          "id": "D",
+          "text": "社會福利等於社會總效益加社會總成本"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "假設政府發出公告： 「近來國內經濟發展穩定，經政府核定列冊之低收入戶及中低收入戶，政府會加發生活補助，低收入戶每人每月發給750 元，中低收入戶每人每月發給500 元」。前述政策內容，最符合下列何項理論的內涵？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "符合多數人福祉的效益主義觀點"
+        },
+        {
+          "id": "B",
+          "text": "照顧弱勢者權益的社會平等觀點"
+        },
+        {
+          "id": "C",
+          "text": "追求群體共同利益的社群主義觀點"
+        },
+        {
+          "id": "D",
+          "text": "透過私利實現公益的自由主義觀點"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "有學者研究指出臺灣高等教育 「反向重分配」的事實：社會地位越高的家庭，相對於較低的家庭，其子女反而能得到較多的政府教育資源。從經濟資本與文化資本兩個概念來觀察，下列敘述何者最能符合題文的描述？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "父母職業聲望對子女社會地位影響力擴大"
+        },
+        {
+          "id": "B",
+          "text": "親子間社會地位的世代流動距離得以擴大"
+        },
+        {
+          "id": "C",
+          "text": "父母的成就動機對子女社會地位流動的影響得以擴大"
+        },
+        {
+          "id": "D",
+          "text": "父母的教育程度高低對子女社會地位流動的影響變小"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "有媒體報導，在某國的益智節目中，參賽者被問了一道問題： 「在臺灣，人們說食物QQ 的，是什麼意思？」答案選項分別是：A.形容媽媽的味道；B.形容食物有嚼勁；C.指食物含有酒精。兩位參賽者討論、思考後，最終決定選擇C，因而錯失繼續挑戰百萬獎金的機會。而在同一報導中，臺灣網友表示， 「這就內建在腦袋中，就QQ 的，要解釋什麼？」對於上述所反映的文化現象，下列敘述何者最為正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "參賽者係身處在該社會環境下的不利處境而無法正確回答"
+        },
+        {
+          "id": "B",
+          "text": "網友認為 「QQ」實無須解釋，係反映我族中心主義的優越態度"
+        },
+        {
+          "id": "C",
+          "text": "「QQ」作為一種符號，在不同文化下呈現不同的認知與使用意義"
+        },
+        {
+          "id": "D",
+          "text": "參賽題目設計者認為 「QQ」在不同文化下應有著相同的意義"
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "不少研究發現，在異性戀伴侶中，大部分家務和照顧孩子的工作，是女方責任。根據勞動部統計，2020 年育嬰留職停薪初次核付件數，男女比例還是以女性居多，超過8 成。綜上所述，從家務勞動的角度推論，下列敘述何者為正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "家務勞動的主力是女性，發生於私領域不涉及社會生活"
+        },
+        {
+          "id": "B",
+          "text": "為肯定家務勞動價值，民法規定夫妻要協議自由處分金"
+        },
+        {
+          "id": "C",
+          "text": "家務勞動分工與育嬰的現象與職場上男女薪資差異有關"
+        },
+        {
+          "id": "D",
+          "text": "依勞動參與率計算公式，家務勞動者被歸類為非勞動力"
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "跨太平洋夥伴全面進步協定（CPTPP）是一個多邊關係的自由貿易協定，成員國人口規模將近5 億，總GDP 占全球13.1%，貿易值占我國貿易總值超過24%。2021 年9 月中國提出申請加入CPTPP 書面信函，位於亞太地區的我國亦延續加入世界貿易組織的模式遞交入會申請函。根據上述，下列何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "該組織由美國主導，為印太戰略布局與RCEP 互別苗頭"
+        },
+        {
+          "id": "B",
+          "text": "中國申請加入，意在取代美國於該組織中的領導地位"
+        },
+        {
+          "id": "C",
+          "text": "成為該組織成員不以國家為要件，經濟體亦可申請加入"
+        },
+        {
+          "id": "D",
+          "text": "我國與中國皆申請加入該組織，顯見中國放棄一中原則"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "某公營電視台播出時，螢幕下方的跑馬燈呈現某市遭敵軍攻擊、某港爆炸，還有規模七的地震等訊息，讓許多觀眾見到這些 「獨家新聞」大驚失色，該電視台立即更正說明是 「誤植」，並且向公眾道歉。在野黨則舉行記者會強烈質疑該電視台失職，要求嚴正查辦，甚至將該電視台撤照，其董事長、總經理也必須為此失誤下台負責。下列那一項解讀可能為此事件的最適切說明？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "報導符合媒體在 「設定議題、促進討論」的公共角色"
+        },
+        {
+          "id": "B",
+          "text": "此為 「媒體再現」的結果，與社會事實可能有所出入"
+        },
+        {
+          "id": "C",
+          "text": "重要訊息在產製過程中，新聞守門人未善盡把關職責"
+        },
+        {
+          "id": "D",
+          "text": "報導內容誇大不實誤導大眾，使閱聽者陷入總白癡化"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "承上題，在野黨舉行記者會譴責該公營電視台失職以及懲處高層人員的作法，是希望相關人員為此負起何項責任？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "行政責任"
+        },
+        {
+          "id": "B",
+          "text": "刑事責任"
+        },
+        {
+          "id": "C",
+          "text": "民事責任"
+        },
+        {
+          "id": "D",
+          "text": "道德責任"
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "我國政府在外交政策上致力於和平與發展，建立與邦交國永續夥伴關係，並與友好國家深化與廣化多元領域的實質關係，持續爭取國際參與及對國際社會作出貢獻，發揮軟實力並透過國際合作及人道救援等方式，提升臺灣的國際形象。由上述可知，我國致力於以何種方式參與國際事務？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "官方交流"
+        },
+        {
+          "id": "B",
+          "text": "踏實外交"
+        },
+        {
+          "id": "C",
+          "text": "共同防禦"
+        },
+        {
+          "id": "D",
+          "text": "宣示主權"
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "電影 「老鷹想飛」記錄了臺灣田間傳統農法使用落葉劑以快速採收紅豆，卻造成很多禽鳥誤食中毒，老鷹又吃這些中毒的禽鳥也因而死亡，本片喚醒了許多民眾對於土壤生態的意識。以上所述屬於經濟學的何種現象？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "機會成本"
+        },
+        {
+          "id": "B",
+          "text": "外部成本"
+        },
+        {
+          "id": "C",
+          "text": "政府失靈"
+        },
+        {
+          "id": "D",
+          "text": "外顯成本"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "下列何者不是將制衡機制納入政府體制設計之理由？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "避免人民的自由與權利受到侵害"
+        },
+        {
+          "id": "B",
+          "text": "有效監督政府權力行使之合法性"
+        },
+        {
+          "id": "C",
+          "text": "促使公共事務之推動更有效率"
+        },
+        {
+          "id": "D",
+          "text": "避免政府權力過度集中而被濫用"
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "下列何者不是政府權力間制衡機制之設計？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "司法違憲審查制度"
+        },
+        {
+          "id": "B",
+          "text": "政府預算提案與審議分開"
+        },
+        {
+          "id": "C",
+          "text": "立法機關行使人事同意權"
+        },
+        {
+          "id": "D",
+          "text": "外交與國防互不隸屬"
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "總統制國家講求權力分立，下列何者不是此一體制下行政權與立法權互相制衡之設計？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "覆議否決權"
+        },
+        {
+          "id": "B",
+          "text": "人事同意權"
+        },
+        {
+          "id": "C",
+          "text": "彈劾權"
+        },
+        {
+          "id": "D",
+          "text": "罷免權"
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "根據我國地方制度法之規定，下列那一個地方層級與其他三者不同？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "嘉義市"
+        },
+        {
+          "id": "B",
+          "text": "基隆市"
+        },
+        {
+          "id": "C",
+          "text": "彰化市"
+        },
+        {
+          "id": "D",
+          "text": "花蓮縣"
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "有研究指出，西發利亞條約簽訂以後，主權國家逐漸生成，並逐漸形成當代以民族國家為中心的運作與國際關係的基礎。以中央集權的主權國家為例，其特徵包括國家能穩定地收稅、進行集權式的管理、國家能壟斷軍事，並能建立法治、外交與國族認同等。下列敘述何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "中央集權的國家只會有單一國族認同"
+        },
+        {
+          "id": "B",
+          "text": "實施聯邦制的國家不是主權國家"
+        },
+        {
+          "id": "C",
+          "text": "西發利亞條約的簽訂對當代主權國家的生成有關鍵的影響"
+        },
+        {
+          "id": "D",
+          "text": "西發利亞條約簽訂後，帝國就不再有跟主權國家抗衡的實力"
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "針對選舉制度中弱勢群體保障名額的議題，有兩種不同的看法：一種主張在許多民主國家，女性國會議員的比例已經接近50%，因此應該改採 「性少數保障名額」制度，因為性少數在參政上已經比婦女更加弱勢。另一種主張在許多國家，即使女性國會議員比例高，但女性擔任部會首長的比例還是很低，因此 「婦女保障名額」制度仍需持續推行。上述關於弱勢群體保障名額的議題，最接近下列何種正義類型？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "分配正義"
+        },
+        {
+          "id": "B",
+          "text": "程序正義"
+        },
+        {
+          "id": "C",
+          "text": "匡正正義"
+        },
+        {
+          "id": "D",
+          "text": "轉型正義"
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "為避免酒駕憾事再度發生，2022 年1 月立法院三讀通過《中華民國刑法》，其中第185 條之3 之刑度，由 「2 年以下有期徒刑、得併科20 萬元以下罰金」提升為 「3 年以下有期徒刑、得併科30 萬元以下罰金」；酒駕致重傷維持 「1 年以上、7 年以下有期徒刑」刑期，但增訂 「得併科100 萬元以下罰金」規定。請問下列敘述何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "酒駕致重傷增訂之刑責規定，意指若罰金繳納後，便無需接受有期徒刑之懲處"
+        },
+        {
+          "id": "B",
+          "text": "於立法程序之 「二讀」階段，立法委員針對本次修法內容逐項深入討論之"
+        },
+        {
+          "id": "C",
+          "text": "按法規內容可知，酒駕之懲處隸屬於 「生命刑、自由刑、財產刑」之範疇"
+        },
+        {
+          "id": "D",
+          "text": "就本次修法內容可知，增訂之刑責與 「追徵、追繳或抵償」皆屬從刑之範疇"
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "某學者指出： 「針對重大公共決策，民選政府可以不採納專家意見，但不應該忽略或扭曲專家意見。例如，民主的發展中國家不引進已開發國家藥廠專家所開發的有效療法，民選政府可以以各種合理理由拒絕，並向專家與社會大眾說明，但不應基於特定政治考量，向大眾傳播該療法無效的不實說法。」下列何者最符合以上敘述的要旨？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "民選政府制定公共政策不採納專家意見，不符合民主精神"
+        },
+        {
+          "id": "B",
+          "text": "發展中國家政府採購已開發國家藥廠的藥品會延續殖民主義的剝削"
+        },
+        {
+          "id": "C",
+          "text": "民選政府在公共決策過程中審慎考量專家意見有助於民主與治理"
+        },
+        {
+          "id": "D",
+          "text": "民主國家中，不採納專家意見的政府就是民粹政府"
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "依據我國憲法規定及大法官解釋之意旨，關於政黨比例代表制，下列敘述何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "憲法增修條文規定，獲得政黨選舉票百分之五以上之政黨，始得分配全國不分區立法委員席次，已違反憲法上之平等原則"
+        },
+        {
+          "id": "B",
+          "text": "公職人員選舉罷免法規定，依政黨得票總數比例方式產生之全國不分區立法委員當選人不適用罷免規定，已違反憲法保障人民罷免權意旨"
+        },
+        {
+          "id": "C",
+          "text": "憲法增修條文對立法委員之選舉採單一選區兩票制，是有意兼顧選區代表性與政黨多元性，未牴觸民主共和國與國民主權原則"
+        },
+        {
+          "id": "D",
+          "text": "依政黨得票總數比例方式產生之全國不分區立法委員，縱喪失其所屬政黨之黨員資格，仍不影響其作為民意代表之資格"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "下列關於權利主體之敘述，何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "自然人的權利能力始於出生登記"
+        },
+        {
+          "id": "B",
+          "text": "法人的權利能力始於登記成立"
+        },
+        {
+          "id": "C",
+          "text": "自然人遭戶政機關除籍，也不影響該自然人的權利能力"
+        },
+        {
+          "id": "D",
+          "text": "發起人於法人成立後脫離法人團體，也不影響該法人的權利能力"
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "下列關於國際人權公約在我國實踐之敘述，何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "我國並非聯合國會員國，故批准國際人權公約後無法存放於聯合國"
+        },
+        {
+          "id": "B",
+          "text": "我國主動邀請國際人權專家至我國審查並提供觀察報告，以代替聯合國國家報告審查"
+        },
+        {
+          "id": "C",
+          "text": "我國依憲法由立法院依條約案審議程序，主動將人權公約國內法化"
+        },
+        {
+          "id": "D",
+          "text": "經過我國國內法化之國際人權公約，在規範效力上具有法律的位階"
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "關於法律的位階，下列何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "特別法的位階高於普通法"
+        },
+        {
+          "id": "B",
+          "text": "經立法院通過之國際條約位階等同法律"
+        },
+        {
+          "id": "C",
+          "text": "法律的位階高於法規命令"
+        },
+        {
+          "id": "D",
+          "text": "法規命令與憲法牴觸無效"
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "大學生甲認為學校不允許他在學校布告欄張貼支持某政治人物的海報，侵害其言論自由。下列關於救濟途徑的敘述，何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "甲沒有被退學，故不能救濟"
+        },
+        {
+          "id": "B",
+          "text": "甲應該先向學校提起申訴"
+        },
+        {
+          "id": "C",
+          "text": "甲得逕向行政法院提起行政訴訟"
+        },
+        {
+          "id": "D",
+          "text": "甲得逕向憲法法庭聲請判決其基本權是否受侵害"
+        }
+      ]
+    },
+    {
+      "no": 28,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "關於憲法明定之救濟權利，下列何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "訴訟"
+        },
+        {
+          "id": "B",
+          "text": "訴願"
+        },
+        {
+          "id": "C",
+          "text": "請願"
+        },
+        {
+          "id": "D",
+          "text": "陳情"
+        }
+      ]
+    },
+    {
+      "no": 29,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "關於得行使原住民相關權利之主體，下列何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "原住民本人"
+        },
+        {
+          "id": "B",
+          "text": "部落"
+        },
+        {
+          "id": "C",
+          "text": "各原住民族"
+        },
+        {
+          "id": "D",
+          "text": "原住民族委員會"
+        }
+      ]
+    },
+    {
+      "no": 30,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "國際政治的權力結構是一個動態體系，關於國際政治體系的發展歷程，下列敘述何者正確？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "冷戰時期的單極體系，指美國在軍事、科技和經濟各方面領先全球"
+        },
+        {
+          "id": "B",
+          "text": "蘇聯共產政權瓦解後，國際政治權力結構走向多極體系的國際合作"
+        },
+        {
+          "id": "C",
+          "text": "二次世界大戰後，資本主義與共產主義兩大陣營對峙長達半個世紀"
+        },
+        {
+          "id": "D",
+          "text": "中國崛起成為世界工廠與世界市場，國際體系轉變為中美兩極對抗"
+        }
+      ]
+    },
+    {
+      "no": 31,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "下列有關我國民法侵權行為責任規定之敘述，何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "無行為能力人或限制行為能力人，不法侵害他人之權利者，不論其行為時是否有識別能力，皆應與其法定代理人連帶負損害賠償責任"
+        },
+        {
+          "id": "B",
+          "text": "無行為能力人或限制行為能力人，不法侵害他人之權利時，如法定代理人能主張其監督並未疏懈，即不負賠償責任"
+        },
+        {
+          "id": "C",
+          "text": "僱用人賠償損害時，對於為侵權行為之受僱人，有求償權"
+        },
+        {
+          "id": "D",
+          "text": "承攬人因執行承攬事項，不法侵害他人權利時，除非定作人於定作或指示有過失，否則定作人不負損害賠償責任"
+        }
+      ]
+    },
+    {
+      "no": 32,
+      "part": "civics",
+      "format": "single",
+      "answer": "D",
+      "stem": "小明騎機車紅燈右轉，被警察開罰單。小明不服，雖依規定提出申訴，但遭到駁回。如果小明想繼續救濟，主張撤銷該罰單，應向下列那個法院起訴？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "地方法院刑事庭"
+        },
+        {
+          "id": "B",
+          "text": "地方法院簡易庭"
+        },
+        {
+          "id": "C",
+          "text": "高等行政法院高等行政訴訟庭"
+        },
+        {
+          "id": "D",
+          "text": "高等行政法院地方行政訴訟庭"
+        }
+      ]
+    },
+    {
+      "no": 33,
+      "part": "civics",
+      "format": "single",
+      "answer": "B",
+      "stem": "下列何者不是民法規定之事項？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "行為能力"
+        },
+        {
+          "id": "B",
+          "text": "破產程序"
+        },
+        {
+          "id": "C",
+          "text": "非婚生子女認領"
+        },
+        {
+          "id": "D",
+          "text": "遺囑要件"
+        }
+      ]
+    },
+    {
+      "no": 34,
+      "part": "civics",
+      "format": "single",
+      "answer": "A",
+      "stem": "因市政府管理之路口燈號異常，致使王先生駕駛車輛闖入捷運公司經營之輕軌軌道區，而輕軌系統之軌道自動偵測設備亦有異常，致使王先生所駕駛之車輛與輕軌電車擦撞，導致輕軌上乘客多人受傷。請問下列有關乘客請求損害賠償之敘述，何者錯誤？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "受傷乘客能向駕車闖入軌道區之王先生依侵權行為損害賠償規定求償"
+        },
+        {
+          "id": "B",
+          "text": "受傷乘客能向設置、管理軌道自動偵測設備之捷運公司請求國家賠償"
+        },
+        {
+          "id": "C",
+          "text": "受傷乘客能依其與捷運公司間之運送契約請求債務不履行損害賠償"
+        },
+        {
+          "id": "D",
+          "text": "受傷乘客能向設置、管理路口燈號之市政府請求國家賠償"
+        }
+      ],
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ],
+      "answerRevised": true
+    },
+    {
+      "no": 35,
+      "part": "civics",
+      "format": "single",
+      "answer": "C",
+      "stem": "下列何者，並無接受立法委員質詢之義務？",
+      "choices": [
+        {
+          "id": "A",
+          "text": "行政院院長"
+        },
+        {
+          "id": "B",
+          "text": "公平交易委員會主任委員"
+        },
+        {
+          "id": "C",
+          "text": "司法院院長"
+        },
+        {
+          "id": "D",
+          "text": "數位發展部部長"
+        }
+      ]
+    },
+    {
+      "no": 36,
+      "part": "english",
+      "format": "fill-in",
+      "answer": "C",
+      "stem": "I don’t lend money to friends since money ____ friendship apart.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "fears"
+        },
+        {
+          "id": "B",
+          "text": "bears"
+        },
+        {
+          "id": "C",
+          "text": "tears"
+        },
+        {
+          "id": "D",
+          "text": "hears"
+        }
+      ]
+    },
+    {
+      "no": 37,
+      "part": "english",
+      "format": "fill-in",
+      "answer": "D",
+      "stem": "While this sports car ____ twice as much as a regular one, it still attracts lots of consumers.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "buys"
+        },
+        {
+          "id": "B",
+          "text": "takes"
+        },
+        {
+          "id": "C",
+          "text": "spends"
+        },
+        {
+          "id": "D",
+          "text": "costs"
+        }
+      ]
+    },
+    {
+      "no": 38,
+      "part": "english",
+      "format": "fill-in",
+      "answer": "A",
+      "stem": "How ____ was I that I made the same mistake once again?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "careless"
+        },
+        {
+          "id": "B",
+          "text": "diligent"
+        },
+        {
+          "id": "C",
+          "text": "joyful"
+        },
+        {
+          "id": "D",
+          "text": "competent"
+        }
+      ]
+    },
+    {
+      "no": 39,
+      "part": "english",
+      "format": "fill-in",
+      "answer": "D",
+      "stem": "The morning markets are filled with ____ who sell vegetables, fruits, and candy every day.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "consumers"
+        },
+        {
+          "id": "B",
+          "text": "defenders"
+        },
+        {
+          "id": "C",
+          "text": "visitors"
+        },
+        {
+          "id": "D",
+          "text": "vendors"
+        }
+      ]
+    },
+    {
+      "no": 40,
+      "part": "english",
+      "format": "fill-in",
+      "answer": "C",
+      "stem": "The witnesses were questioned in ____ rooms because the police wanted to find out what had happened.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "desperate"
+        },
+        {
+          "id": "B",
+          "text": "sincere"
+        },
+        {
+          "id": "C",
+          "text": "separate"
+        },
+        {
+          "id": "D",
+          "text": "instant"
+        }
+      ]
+    },
+    {
+      "no": 41,
+      "part": "english",
+      "format": "cloze",
+      "answer": "C",
+      "stem": "（41）",
+      "choices": [
+        {
+          "id": "A",
+          "text": "which"
+        },
+        {
+          "id": "B",
+          "text": "whether"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        }
+      ],
+      "groupId": "41-45"
+    },
+    {
+      "no": 42,
+      "part": "english",
+      "format": "cloze",
+      "answer": "C",
+      "stem": "（42）",
+      "choices": [
+        {
+          "id": "A",
+          "text": "prices"
+        },
+        {
+          "id": "B",
+          "text": "places"
+        },
+        {
+          "id": "C",
+          "text": "forms"
+        },
+        {
+          "id": "D",
+          "text": "seats"
+        }
+      ],
+      "groupId": "41-45"
+    },
+    {
+      "no": 43,
+      "part": "english",
+      "format": "cloze",
+      "answer": "C",
+      "stem": "（43）",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rented"
+        },
+        {
+          "id": "B",
+          "text": "excited"
+        },
+        {
+          "id": "C",
+          "text": "favorite"
+        },
+        {
+          "id": "D",
+          "text": "famous"
+        }
+      ],
+      "groupId": "41-45"
+    },
+    {
+      "no": 44,
+      "part": "english",
+      "format": "cloze",
+      "answer": "D",
+      "stem": "（44）",
+      "choices": [
+        {
+          "id": "A",
+          "text": "deny"
+        },
+        {
+          "id": "B",
+          "text": "deprive"
+        },
+        {
+          "id": "C",
+          "text": "insist"
+        },
+        {
+          "id": "D",
+          "text": "involve"
+        }
+      ],
+      "groupId": "41-45"
+    },
+    {
+      "no": 45,
+      "part": "english",
+      "format": "cloze",
+      "answer": "D",
+      "stem": "（45）",
+      "choices": [
+        {
+          "id": "A",
+          "text": "hardly"
+        },
+        {
+          "id": "B",
+          "text": "quickly"
+        },
+        {
+          "id": "C",
+          "text": "always"
+        },
+        {
+          "id": "D",
+          "text": "almost"
+        }
+      ],
+      "groupId": "41-45"
+    },
+    {
+      "no": 46,
+      "part": "english",
+      "format": "reading",
+      "answer": "B",
+      "stem": "Which of the following could be the best title for this passage?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Strategies and Rules of Board Games."
+        },
+        {
+          "id": "B",
+          "text": "Diversity and Appeal of Board Games."
+        },
+        {
+          "id": "C",
+          "text": "Types and Chances of Board Games."
+        },
+        {
+          "id": "D",
+          "text": "Actions and Outcomes of Board Games."
+        }
+      ],
+      "groupId": "46-50"
+    },
+    {
+      "no": 47,
+      "part": "english",
+      "format": "reading",
+      "answer": "A",
+      "stem": "According to the passage, which of the following is a characteristic about Pandemic?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It requires cooperation among the team members."
+        },
+        {
+          "id": "B",
+          "text": "It aims to cure the disease and escape from the island."
+        },
+        {
+          "id": "C",
+          "text": "It focuses on spelling skills and vocabulary creativity."
+        },
+        {
+          "id": "D",
+          "text": "It relies on chances and luck to decide the winner of the game."
+        }
+      ],
+      "groupId": "46-50"
+    },
+    {
+      "no": 48,
+      "part": "english",
+      "format": "reading",
+      "answer": "C",
+      "stem": "According to the passage, which of the following statements is true about board games?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Board games relying on chances are the most exciting and popular type."
+        },
+        {
+          "id": "B",
+          "text": "Board games help us to produce strategies in fighting against Pandemic."
+        },
+        {
+          "id": "C",
+          "text": "Board games can give us a good break without looking at screens."
+        },
+        {
+          "id": "D",
+          "text": "Board games can serve as good exams to test students’vocabulary."
+        }
+      ],
+      "groupId": "46-50"
+    },
+    {
+      "no": 49,
+      "part": "english",
+      "format": "reading",
+      "answer": "D",
+      "stem": "According to the passage, which of the following is NOT mentioned as a reason why board games are popular?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "They train our wits and creativity in language skills."
+        },
+        {
+          "id": "B",
+          "text": "They serve as a source of entertainment and relaxation."
+        },
+        {
+          "id": "C",
+          "text": "They offer a good time for friends and family members to be together."
+        },
+        {
+          "id": "D",
+          "text": "They help to break the ice among strangers in social interaction."
+        }
+      ],
+      "groupId": "46-50"
+    },
+    {
+      "no": 50,
+      "part": "english",
+      "format": "reading",
+      "answer": "C",
+      "stem": "Which of the following best describes the author’s attitude about board games?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bitter."
+        },
+        {
+          "id": "B",
+          "text": "Anxious."
+        },
+        {
+          "id": "C",
+          "text": "Supportive."
+        },
+        {
+          "id": "D",
+          "text": "Aggressive."
+        }
+      ],
+      "groupId": "46-50"
+    }
+  ],
+  "answerNote": "第34題答Ａ或Ｂ者均給分"
+}
