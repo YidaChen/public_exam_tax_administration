@@ -1,8 +1,15 @@
 const YEARS = [115, 114, 113, 112, 111, 110];
-const SUBJECTS = ["國文", "公民與英文", "稅務法規大意", "財政學大意"];
+const CATEGORIES = [
+  { name: "一般行政", subjects: ["國文", "公民與英文", "法學大意", "行政學大意"] },
+  { name: "財稅行政", subjects: ["國文", "公民與英文", "稅務法規大意", "財政學大意"] },
+];
+const CATEGORY_KEY = "public-exam:v1:category";
+const DEFAULT_CATEGORY = "一般行政";
 
 const app = document.querySelector("#app");
+const eyebrow = document.querySelector("#eyebrow");
 const state = {
+  category: readCategory(),
   subject: null,
   exam: null,
   index: 0,
@@ -18,6 +25,29 @@ const state = {
 };
 
 const explanations = new Map();
+
+function readCategory() {
+  try {
+    const name = localStorage.getItem(CATEGORY_KEY);
+    return CATEGORIES.some((category) => category.name === name) ? name : DEFAULT_CATEGORY;
+  } catch {
+    return DEFAULT_CATEGORY;
+  }
+}
+
+function setCategory(name) {
+  state.category = name;
+  try {
+    if (name) localStorage.setItem(CATEGORY_KEY, name);
+    else localStorage.removeItem(CATEGORY_KEY);
+  } catch {
+    // Storage can be blocked; the choice still holds for this visit.
+  }
+}
+
+function categorySubjects() {
+  return CATEGORIES.find((category) => category.name === state.category)?.subjects || [];
+}
 
 function qid(question) {
   return question.uid || question.no;
@@ -347,12 +377,39 @@ function goHome() {
 
 function renderHome() {
   state.exam = null;
+  eyebrow.textContent = state.category ? `公務人員初等考試・${state.category}` : "公務人員初等考試";
+  if (!state.category) {
+    app.innerHTML = `
+      <section class="panel">
+        <p class="lead">選擇類科。國文與公民與英文為各類科共同科目。</p>
+        <div class="year-grid">
+          ${CATEGORIES.map((category) => `
+            <button class="year-card" type="button" data-category="${category.name}">
+              <strong>${category.name}</strong>
+              <span>${category.subjects.slice(2).join("、")}</span>
+            </button>
+          `).join("")}
+        </div>
+      </section>
+    `;
+    app.querySelectorAll("[data-category]").forEach((button) => {
+      button.addEventListener("click", () => {
+        setCategory(button.dataset.category);
+        renderHome();
+      });
+    });
+    return;
+  }
+
   if (!state.subject) {
     app.innerHTML = `
       <section class="panel">
-        <p class="lead">選擇科目。國文含複選題，公民與英文含填空和題組。</p>
+        <div class="toolbar">
+          <p class="lead">${state.category}。選擇科目。國文含複選題，公民與英文含填空和題組。</p>
+          <button class="ghost" type="button" id="change-category">換類科</button>
+        </div>
         <div class="year-grid">
-          ${SUBJECTS.map((subject) => `
+          ${categorySubjects().map((subject) => `
             <button class="year-card" type="button" data-subject="${subject}">
               <strong>${subject}</strong>
               <span>110–115 年</span>
@@ -361,6 +418,10 @@ function renderHome() {
         </div>
       </section>
     `;
+    document.querySelector("#change-category").addEventListener("click", () => {
+      setCategory(null);
+      renderHome();
+    });
     app.querySelectorAll("[data-subject]").forEach((button) => {
       button.addEventListener("click", () => {
         state.subject = button.dataset.subject;
